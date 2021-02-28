@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="456" height="189" src="https://raw.githubusercontent.com/AM71113363/FTP-Server/main/info.png">
+<img align="center" width="258" height="135" src="https://raw.githubusercontent.com/AM71113363/FTP-Server/main/info.png">
 </p>
 
 # FTP Server
