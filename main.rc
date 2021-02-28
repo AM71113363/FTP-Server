@@ -1,0 +1,39 @@
+#include <windows.h>
+
+200 ICON "icone.ico"
+
+2222  DIALOGEX 0, 0, 200, 28
+STYLE  WS_SYSMENU |WS_VISIBLE
+EXSTYLE WS_EX_PALETTEWINDOW
+CAPTION ""
+FONT 8, "MS Sans Serif"
+{
+}
+
+1 VERSIONINFO
+FILEVERSION 0,1,7,0
+PRODUCTVERSION 0,1,7,0
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", "AM71113363"
+			 VALUE "FileVersion", ""
+			 VALUE "FileDescription", "27-02-2021"
+			 VALUE "InternalName", "FTP Server"
+			 VALUE "LegalCopyright", ""
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", ""
+			 VALUE "ProductVersion", "v10"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
+
+
