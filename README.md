@@ -4,7 +4,8 @@
 
 # FTP Server
 -----
-* Just a Simple Ftp Server<br>
+* Just a Simple FTP Server<br>
+* PORT = 21
 
 ## Build.
 _for beginners_ <br>
